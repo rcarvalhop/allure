@@ -1,1 +1,1 @@
-# http://allure
+# http://rcarvalhop.github.io/allure
