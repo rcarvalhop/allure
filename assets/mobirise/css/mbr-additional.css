@@ -22,10 +22,10 @@ body {
 }
 .display-1 {
   font-family: 'Megrim', display;
-  font-size: 5rem;
+  font-size: 4.25rem;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 8rem;
+  font-size: 6.8rem;
 }
 .display-2 {
   font-family: 'Megrim', display;
@@ -35,14 +35,14 @@ body {
   font-size: 4.8rem;
 }
 .display-4 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Megrim', display;
   font-size: 1rem;
 }
 .display-4 > .mbr-iconfont {
   font-size: 1.6rem;
 }
 .display-5 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Megrim', display;
   font-size: 1.5rem;
 }
 .display-5 > .mbr-iconfont {
@@ -62,9 +62,9 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 4rem;
-    font-size: calc( 2.4rem + (5 - 2.4) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (2.4rem + (5 - 2.4) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 3.4rem;
+    font-size: calc( 2.1374999999999997rem + (4.25 - 2.1374999999999997) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (2.1374999999999997rem + (4.25 - 2.1374999999999997) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 2.4rem;
@@ -589,8 +589,8 @@ a:hover {
   color: #dfd9c6;
 }
 /* Scroll to top button*/
-.scrollToTop_wraper {
-  display: none;
+#scrollToTop a {
+  border-radius: 100px;
 }
 #scrollToTop a i:before {
   content: '';
