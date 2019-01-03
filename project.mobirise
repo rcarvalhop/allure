@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Allure Decorações",
-    "currentPage": "cortinas.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -47,7 +47,7 @@
         "url": "https://fonts.googleapis.com/css?family=Megrim:400"
       }
     ],
-    "uniqCompNum": 8,
+    "uniqCompNum": 0,
     "versionPublish": "4.8.10",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/a-allure-128x129.png",
